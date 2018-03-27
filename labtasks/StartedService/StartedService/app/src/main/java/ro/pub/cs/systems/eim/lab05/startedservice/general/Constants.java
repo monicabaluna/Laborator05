@@ -17,7 +17,7 @@ public interface Constants {
 
     final public static String DATA = "ro.pub.cs.systems.eim.lab05.startedservice.data";
 
-    final public static String STRING_DATA = "EIM";
+    final public static String STRING_DATA = "NU STIU DIFERENTA DINTRE ARRAY SI ARRAY LIST";
     final public static int INTEGER_DATA = 2017;
     final public static ArrayList<String> ARRAY_LIST_DATA = new ArrayList<>(Arrays.asList("EIM", "2017"));
 
